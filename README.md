@@ -4,9 +4,9 @@
 This project presents an in-depth analysis of electric vehicle (EV) data, focusing on various metrics such as the average electric range, total vehicles, and the distribution of vehicles by make, model year, and state. The analysis is performed using Tableau to create an interactive dashboard that provides valuable insights into the electric vehicle market.
 
 # Objectives
-# 1 Data Visualization: Create an intuitive and visually appealing dashboard to present key metrics.
-# 2 Data Exploration: Provide insights into the distribution and trends of electric vehicles across different states, makes, and models.
-# 3 Actionable Insights: Enable stakeholders to make informed decisions based on the visualized data.
+ 1 Data Visualization: Create an intuitive and visually appealing dashboard to present key metrics.
+ 2 Data Exploration: Provide insights into the distribution and trends of electric vehicles across different states, makes, and models.
+ 3 Actionable Insights: Enable stakeholders to make informed decisions based on the visualized data.
 
 # Key Features
 Total Vehicles: Displays the total number of electric vehicles analyzed.
